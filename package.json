@@ -1,0 +1,36 @@
+{
+  "name": "ravencoin-ops",
+  "version": "1.0.0",
+  "description": "ravencoin OP codes",
+  "author": "MSFTserver",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/raven-community/ravencoin-ops.git"
+  },
+  "bugs": {
+    "url": "https://github.com/raven-community/ravencoin-ops/issues"
+  },
+  "homepage": "https://github.com/raven-community/ravencoin-ops",
+  "keywords": [
+    "opcodes",
+    "ops",
+    "raven-ops",
+    "ravenops",
+    "ravencoin-ops",
+    "ravencoin",
+    "rvn",
+    "rvn-ops",
+    "rvncoin",
+    "rvncoin-ops"
+  ],
+  "files": [
+    "index.json",
+    "map.js"
+  ],
+  "main": "./index.json",
+  "scripts": {},
+  "devDependencies": {
+    "standard": "*"
+  }
+}
