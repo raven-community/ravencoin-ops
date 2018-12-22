@@ -24,7 +24,6 @@
   "OP_15": 95,
   "OP_16": 96,
 
-  "__COMMENT-SECTION__": "control",
   "OP_NOP": 97,
   "OP_VER": 98,
   "OP_IF": 99,
@@ -36,7 +35,6 @@
   "OP_VERIFY": 105,
   "OP_RETURN": 106,
 
-  "__COMMENT-SECTION__": "stack ops",
   "OP_TOALTSTACK": 107,
   "OP_FROMALTSTACK": 108,
   "OP_2DROP": 109,
@@ -57,14 +55,12 @@
   "OP_SWAP": 124,
   "OP_TUCK": 125,
 
-  "__COMMENT-SECTION__": "splice ops",
   "OP_CAT": 126,
   "OP_SUBSTR": 127,
   "OP_LEFT": 128,
   "OP_RIGHT": 129,
   "OP_SIZE": 130,
 
-  "__COMMENT-SECTION__": "bit logic",
   "OP_INVERT": 131,
   "OP_AND": 132,
   "OP_OR": 133,
@@ -74,7 +70,6 @@
   "OP_RESERVED1": 137,
   "OP_RESERVED2": 138,
 
-  "__COMMENT-SECTION__": "numeric",
   "OP_1ADD": 139,
   "OP_1SUB": 140,
   "OP_2MUL": 141,
@@ -106,7 +101,6 @@
 
   "OP_WITHIN": 165,
 
-  "__COMMENT-SECTION__": "crypto",
   "OP_RIPEMD160": 166,
   "OP_SHA1": 167,
   "OP_SHA256": 168,
@@ -120,7 +114,6 @@
 
   "OP_CHECKLOCKTIMEVERIFY": 177,
 
-  "__COMMENT-SECTION__": "expansion",
   "OP_NOP1": 176,
   "OP_NOP2": 177,
   "OP_NOP3": 178,
@@ -134,7 +127,6 @@
 
   "OP_RVN_ASSET": 192,
 
-  "__COMMENT-SECTION__": "template matching params",
   "OP_PUBKEYHASH": 253,
   "OP_PUBKEY": 254,
 "OP_INVALIDOPCODE": 255
